@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    color:white;
+}
+.blob {
+    border-radius: 35% 65% 70% 30% / 57% 59% 41% 43% ;
+}
